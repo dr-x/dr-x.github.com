@@ -29,7 +29,7 @@
 
         <nav1>
         <span>Created by</span></br>
-        <span><a href="http://suredream.github.com">Jun Xiong</a></span>
+        <span><a href="cv.html">Jun Xiong</a></span>
 
         </br> </br>
         <span>Rights reserved by</span></br>
